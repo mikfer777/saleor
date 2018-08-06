@@ -3,7 +3,7 @@ from unittest.mock import Mock
 from django.contrib.staticfiles.templatetags.staticfiles import static
 
 from saleor.product.templatetags.product_images import (
-    choose_placeholder, get_thumbnail, get_thumbnail)
+    choose_placeholder, get_thumbnail)
 
 
 def test_get_thumbnail():
