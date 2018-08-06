@@ -1421,6 +1421,20 @@ exports[`Storyshots Generics / MultiAutocompleteSelectField with loaded data 1`]
           placeholder="Select country"
           type="text"
         />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root-id"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <g
+            style="fill-rule:evenodd"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </g>
+        </svg>
       </div>
       <p
         class="MuiFormHelperText-root-id"
@@ -1476,6 +1490,20 @@ exports[`Storyshots Generics / MultiAutocompleteSelectField with loading data 1`
           placeholder="Select country"
           type="text"
         />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root-id"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <g
+            style="fill-rule:evenodd"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </g>
+        </svg>
       </div>
       <p
         class="MuiFormHelperText-root-id"
@@ -3256,6 +3284,20 @@ exports[`Storyshots Generics / SingleAutocompleteSelectField with custom option 
           type="text"
           value="Afghanistan"
         />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root-id"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <g
+            style="fill-rule:evenodd"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </g>
+        </svg>
       </div>
       <p
         class="MuiFormHelperText-root-id"
@@ -3291,6 +3333,20 @@ exports[`Storyshots Generics / SingleAutocompleteSelectField with loaded data 1`
           type="text"
           value="Afghanistan"
         />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root-id"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <g
+            style="fill-rule:evenodd"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </g>
+        </svg>
       </div>
       <p
         class="MuiFormHelperText-root-id"
@@ -3326,6 +3382,20 @@ exports[`Storyshots Generics / SingleAutocompleteSelectField with loading data 1
           type="text"
           value="Afghanistan"
         />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root-id"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <g
+            style="fill-rule:evenodd"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </g>
+        </svg>
       </div>
       <p
         class="MuiFormHelperText-root-id"
@@ -24591,6 +24661,20 @@ exports[`Storyshots Views / Product types / Product type details default 1`] = `
                     id="downshift-21-input"
                     type="text"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
                 <p
                   class="MuiFormHelperText-root-id"
@@ -24670,6 +24754,20 @@ exports[`Storyshots Views / Product types / Product type details default 1`] = `
                     id="downshift-22-input"
                     type="text"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
                 <p
                   class="MuiFormHelperText-root-id"
@@ -24994,6 +25092,20 @@ exports[`Storyshots Views / Product types / Product type details loading 1`] = `
                     id="downshift-23-input"
                     type="text"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
                 <p
                   class="MuiFormHelperText-root-id"
@@ -26088,6 +26200,20 @@ exports[`Storyshots Views / Products / Create product When loading 1`] = `
                     type="text"
                     value=""
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -26708,6 +26834,20 @@ exports[`Storyshots Views / Products / Create product default 1`] = `
                     type="text"
                     value=""
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -27057,12 +27197,22 @@ exports[`Storyshots Views / Products / Create product variant default 1`] = `
                   class="MuiTableCell-root-id MuiTableCell-body-id Component-root-id "
                 >
                   <div
-                    class="MuiAvatar-root-id Component-avatar-id"
+                    class="MuiAvatar-root-id MuiAvatar-colorDefault-id Component-avatar-id"
                   >
-                    <img
-                      class="MuiAvatar-img-id"
-                      src="placeholder255x255.png"
-                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root-id"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <g
+                        style="fill-rule:evenodd"
+                      >
+                        <path
+                          d="M 22.418358,23.933955 23.941248,22.416861 1.505286,0.06622212 -0.01756434,1.5833815 2.3945365,3.98626 c -0.00402,0.054209 -0.00609,0.1089561 -0.00609,0.1641949 l 0,15.5654231 c 0,1.223034 1.0044565,2.223746 2.232151,2.223746 l 15.6251379,0 c 0.05533,0 0.110242,-0.0021 0.164611,-0.0061 l 2.008007,2.000405 z m -4.234188,-4.218065 -2.232782,-2.224284 -10.2147024,0 3.3482328,-4.291641 2.3883966,2.879541 1.336535,-1.717557 -8.1892465,-8.1579753 0,13.5119163 13.5635665,0 z m 4.293682,-15.5654234 0,13.8585934 -2.232111,-2.223614 0,-11.6349794 -11.6793779,0 -2.232218,-2.2237479 13.9115959,0 c 1.227708,0 2.232111,1.0007001 2.232111,2.2237479 z"
+                        />
+                      </g>
+                    </svg>
                   </div>
                 </td>
                 <td
@@ -27078,12 +27228,22 @@ exports[`Storyshots Views / Products / Create product variant default 1`] = `
                   class="MuiTableCell-root-id MuiTableCell-body-id Component-root-id "
                 >
                   <div
-                    class="MuiAvatar-root-id Component-avatar-id"
+                    class="MuiAvatar-root-id MuiAvatar-colorDefault-id Component-avatar-id"
                   >
-                    <img
-                      class="MuiAvatar-img-id"
-                      src="placeholder255x255.png"
-                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root-id"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <g
+                        style="fill-rule:evenodd"
+                      >
+                        <path
+                          d="M 22.418358,23.933955 23.941248,22.416861 1.505286,0.06622212 -0.01756434,1.5833815 2.3945365,3.98626 c -0.00402,0.054209 -0.00609,0.1089561 -0.00609,0.1641949 l 0,15.5654231 c 0,1.223034 1.0044565,2.223746 2.232151,2.223746 l 15.6251379,0 c 0.05533,0 0.110242,-0.0021 0.164611,-0.0061 l 2.008007,2.000405 z m -4.234188,-4.218065 -2.232782,-2.224284 -10.2147024,0 3.3482328,-4.291641 2.3883966,2.879541 1.336535,-1.717557 -8.1892465,-8.1579753 0,13.5119163 13.5635665,0 z m 4.293682,-15.5654234 0,13.8585934 -2.232111,-2.223614 0,-11.6349794 -11.6793779,0 -2.232218,-2.2237479 13.9115959,0 c 1.227708,0 2.232111,1.0007001 2.232111,2.2237479 z"
+                        />
+                      </g>
+                    </svg>
                   </div>
                 </td>
                 <td
@@ -27148,6 +27308,20 @@ exports[`Storyshots Views / Products / Create product variant default 1`] = `
                     type="text"
                     value=""
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -27310,13 +27484,9 @@ exports[`Storyshots Views / Products / Create product variant default 1`] = `
                       class="MuiInput-input-id"
                       name="stock"
                       type="text"
+                      value=""
                     />
                   </div>
-                  <p
-                    class="MuiFormHelperText-root-id"
-                  >
-                    Allocated: undefined
-                  </p>
                 </div>
               </div>
               <div>
@@ -27338,6 +27508,7 @@ exports[`Storyshots Views / Products / Create product variant default 1`] = `
                       class="MuiInput-input-id"
                       name="sku"
                       type="text"
+                      value=""
                     />
                   </div>
                 </div>
@@ -27663,6 +27834,7 @@ exports[`Storyshots Views / Products / Create product variant when loading data 
                       disabled=""
                       name="stock"
                       type="text"
+                      value=""
                     />
                   </div>
                 </div>
@@ -27687,6 +27859,7 @@ exports[`Storyshots Views / Products / Create product variant when loading data 
                       disabled=""
                       name="sku"
                       type="text"
+                      value=""
                     />
                   </div>
                 </div>
@@ -27813,12 +27986,22 @@ exports[`Storyshots Views / Products / Create product variant with errors 1`] = 
                   class="MuiTableCell-root-id MuiTableCell-body-id Component-root-id "
                 >
                   <div
-                    class="MuiAvatar-root-id Component-avatar-id"
+                    class="MuiAvatar-root-id MuiAvatar-colorDefault-id Component-avatar-id"
                   >
-                    <img
-                      class="MuiAvatar-img-id"
-                      src="placeholder255x255.png"
-                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root-id"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <g
+                        style="fill-rule:evenodd"
+                      >
+                        <path
+                          d="M 22.418358,23.933955 23.941248,22.416861 1.505286,0.06622212 -0.01756434,1.5833815 2.3945365,3.98626 c -0.00402,0.054209 -0.00609,0.1089561 -0.00609,0.1641949 l 0,15.5654231 c 0,1.223034 1.0044565,2.223746 2.232151,2.223746 l 15.6251379,0 c 0.05533,0 0.110242,-0.0021 0.164611,-0.0061 l 2.008007,2.000405 z m -4.234188,-4.218065 -2.232782,-2.224284 -10.2147024,0 3.3482328,-4.291641 2.3883966,2.879541 1.336535,-1.717557 -8.1892465,-8.1579753 0,13.5119163 13.5635665,0 z m 4.293682,-15.5654234 0,13.8585934 -2.232111,-2.223614 0,-11.6349794 -11.6793779,0 -2.232218,-2.2237479 13.9115959,0 c 1.227708,0 2.232111,1.0007001 2.232111,2.2237479 z"
+                        />
+                      </g>
+                    </svg>
                   </div>
                 </td>
                 <td
@@ -27834,12 +28017,22 @@ exports[`Storyshots Views / Products / Create product variant with errors 1`] = 
                   class="MuiTableCell-root-id MuiTableCell-body-id Component-root-id "
                 >
                   <div
-                    class="MuiAvatar-root-id Component-avatar-id"
+                    class="MuiAvatar-root-id MuiAvatar-colorDefault-id Component-avatar-id"
                   >
-                    <img
-                      class="MuiAvatar-img-id"
-                      src="placeholder255x255.png"
-                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root-id"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <g
+                        style="fill-rule:evenodd"
+                      >
+                        <path
+                          d="M 22.418358,23.933955 23.941248,22.416861 1.505286,0.06622212 -0.01756434,1.5833815 2.3945365,3.98626 c -0.00402,0.054209 -0.00609,0.1089561 -0.00609,0.1641949 l 0,15.5654231 c 0,1.223034 1.0044565,2.223746 2.232151,2.223746 l 15.6251379,0 c 0.05533,0 0.110242,-0.0021 0.164611,-0.0061 l 2.008007,2.000405 z m -4.234188,-4.218065 -2.232782,-2.224284 -10.2147024,0 3.3482328,-4.291641 2.3883966,2.879541 1.336535,-1.717557 -8.1892465,-8.1579753 0,13.5119163 13.5635665,0 z m 4.293682,-15.5654234 0,13.8585934 -2.232111,-2.223614 0,-11.6349794 -11.6793779,0 -2.232218,-2.2237479 13.9115959,0 c 1.227708,0 2.232111,1.0007001 2.232111,2.2237479 z"
+                        />
+                      </g>
+                    </svg>
                   </div>
                 </td>
                 <td
@@ -27904,6 +28097,20 @@ exports[`Storyshots Views / Products / Create product variant with errors 1`] = 
                     type="text"
                     value=""
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -28066,6 +28273,7 @@ exports[`Storyshots Views / Products / Create product variant with errors 1`] = 
                       class="MuiInput-input-id"
                       name="stock"
                       type="text"
+                      value=""
                     />
                   </div>
                   <p
@@ -28094,6 +28302,7 @@ exports[`Storyshots Views / Products / Create product variant with errors 1`] = 
                       class="MuiInput-input-id"
                       name="sku"
                       type="text"
+                      value=""
                     />
                   </div>
                   <p
@@ -28814,20 +29023,6 @@ exports[`Storyshots Views / Products / Product edit when data is fully loaded 1`
                   <span
                     class="MuiButton-label-id"
                   >
-                    Edit attributes
-                  </span>
-                  <span
-                    class="MuiTouchRipple-root-id"
-                  />
-                </button>
-                <button
-                  class="MuiButtonBase-root-id MuiButton-root-id MuiButton-textSecondary-id MuiButton-flat-id MuiButton-flatSecondary-id"
-                  tabindex="0"
-                  type="button"
-                >
-                  <span
-                    class="MuiButton-label-id"
-                  >
                     Add variant
                   </span>
                   <span
@@ -29043,6 +29238,20 @@ exports[`Storyshots Views / Products / Product edit when data is fully loaded 1`
                     type="text"
                     value="Versatile"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -29124,6 +29333,20 @@ exports[`Storyshots Views / Products / Product edit when data is fully loaded 1`
                     type="text"
                     value="portals"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -29157,6 +29380,20 @@ exports[`Storyshots Views / Products / Product edit when data is fully loaded 1`
                     type="text"
                     value="Auto Loan Account"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -29948,6 +30185,20 @@ exports[`Storyshots Views / Products / Product edit when loading data 1`] = `
                     type="text"
                     value=""
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -30570,20 +30821,6 @@ exports[`Storyshots Views / Products / Product edit when product has no images 1
                   <span
                     class="MuiButton-label-id"
                   >
-                    Edit attributes
-                  </span>
-                  <span
-                    class="MuiTouchRipple-root-id"
-                  />
-                </button>
-                <button
-                  class="MuiButtonBase-root-id MuiButton-root-id MuiButton-textSecondary-id MuiButton-flat-id MuiButton-flatSecondary-id"
-                  tabindex="0"
-                  type="button"
-                >
-                  <span
-                    class="MuiButton-label-id"
-                  >
                     Add variant
                   </span>
                   <span
@@ -30799,6 +31036,20 @@ exports[`Storyshots Views / Products / Product edit when product has no images 1
                     type="text"
                     value="Versatile"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -30880,6 +31131,20 @@ exports[`Storyshots Views / Products / Product edit when product has no images 1
                     type="text"
                     value="portals"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -30913,6 +31178,20 @@ exports[`Storyshots Views / Products / Product edit when product has no images 1
                     type="text"
                     value="Auto Loan Account"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -32036,6 +32315,20 @@ exports[`Storyshots Views / Products / Product edit when product has no variants
                     type="text"
                     value="Versatile"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -32117,6 +32410,20 @@ exports[`Storyshots Views / Products / Product edit when product has no variants
                     type="text"
                     value="portals"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -32150,6 +32457,20 @@ exports[`Storyshots Views / Products / Product edit when product has no variants
                     type="text"
                     value="Auto Loan Account"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -32606,6 +32927,20 @@ exports[`Storyshots Views / Products / Product image details when loaded data 1`
     <div
       class="Component-root-id"
     >
+      <button
+        class="MuiButtonBase-root-id MuiButton-root-id MuiButton-contained-id MuiButton-raised-id Component-deleteButton-id"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label-id"
+        >
+          Remove
+        </span>
+        <span
+          class="MuiTouchRipple-root-id"
+        />
+      </button>
       <div
         class="Component-spacer-id"
       />
@@ -32783,6 +33118,20 @@ exports[`Storyshots Views / Products / Product image details when loading data 1
     <div
       class="Component-root-id"
     >
+      <button
+        class="MuiButtonBase-root-id MuiButton-root-id MuiButton-contained-id MuiButton-raised-id Component-deleteButton-id"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label-id"
+        >
+          Remove
+        </span>
+        <span
+          class="MuiTouchRipple-root-id"
+        />
+      </button>
       <div
         class="Component-spacer-id"
       />
@@ -33003,7 +33352,7 @@ exports[`Storyshots Views / Products / Product list default 1`] = `
           <td
             class="MuiTableCell-root-id MuiTableCell-body-id"
           >
-            PYG 595
+            PYG595
           </td>
         </tr>
         <tr
@@ -33050,7 +33399,7 @@ exports[`Storyshots Views / Products / Product list default 1`] = `
           <td
             class="MuiTableCell-root-id MuiTableCell-body-id"
           >
-            GMD 432.08
+            GMD432.08
           </td>
         </tr>
         <tr
@@ -33097,7 +33446,7 @@ exports[`Storyshots Views / Products / Product list default 1`] = `
           <td
             class="MuiTableCell-root-id MuiTableCell-body-id"
           >
-            WST 73.74
+            WST73.74
           </td>
         </tr>
         <tr
@@ -33144,7 +33493,7 @@ exports[`Storyshots Views / Products / Product list default 1`] = `
           <td
             class="MuiTableCell-root-id MuiTableCell-body-id"
           >
-            MWK 27.68
+            MWK27.68
           </td>
         </tr>
         <tr
@@ -33191,7 +33540,7 @@ exports[`Storyshots Views / Products / Product list default 1`] = `
           <td
             class="MuiTableCell-root-id MuiTableCell-body-id"
           >
-            WST 440.79
+            WST440.79
           </td>
         </tr>
         <tr
@@ -33238,7 +33587,7 @@ exports[`Storyshots Views / Products / Product list default 1`] = `
           <td
             class="MuiTableCell-root-id MuiTableCell-body-id"
           >
-            HRK 398.96
+            HRK398.96
           </td>
         </tr>
         <tr
@@ -33285,7 +33634,7 @@ exports[`Storyshots Views / Products / Product list default 1`] = `
           <td
             class="MuiTableCell-root-id MuiTableCell-body-id"
           >
-            HUF 959.31
+            HUF959.31
           </td>
         </tr>
         <tr
@@ -33332,7 +33681,7 @@ exports[`Storyshots Views / Products / Product list default 1`] = `
           <td
             class="MuiTableCell-root-id MuiTableCell-body-id"
           >
-            PKR 593
+            PKR593
           </td>
         </tr>
         <tr
@@ -33379,7 +33728,7 @@ exports[`Storyshots Views / Products / Product list default 1`] = `
           <td
             class="MuiTableCell-root-id MuiTableCell-body-id"
           >
-            SHP 62.01
+            SHP62.01
           </td>
         </tr>
         <tr
@@ -33426,7 +33775,7 @@ exports[`Storyshots Views / Products / Product list default 1`] = `
           <td
             class="MuiTableCell-root-id MuiTableCell-body-id"
           >
-            UZS 197
+            UZS197
           </td>
         </tr>
       </tbody>
@@ -34080,6 +34429,20 @@ exports[`Storyshots Views / Products / Product variant details when loaded data 
                     type="text"
                     value="portals"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -34113,6 +34476,20 @@ exports[`Storyshots Views / Products / Product variant details when loaded data 
                     type="text"
                     value="Auto Loan Account"
                   />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <g
+                      style="fill-rule:evenodd"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </g>
+                  </svg>
                 </div>
               </div>
             </div>
@@ -36108,7 +36485,7 @@ exports[`Storyshots Views / Vouchers / Voucher list default 1`] = `
             <p
               class="MuiTypography-root-id MuiTypography-body1-id Component-tableCellFont-id"
             >
-              RON 10.00
+              RON10.00
             </p>
           </td>
         </tr>
@@ -36361,7 +36738,7 @@ exports[`Storyshots Views / Vouchers / Voucher list default 1`] = `
             <p
               class="MuiTypography-root-id MuiTypography-body1-id Component-tableCellFont-id"
             >
-              PGK 20.00
+              PGK20.00
             </p>
           </td>
         </tr>
@@ -36418,7 +36795,7 @@ exports[`Storyshots Views / Vouchers / Voucher list default 1`] = `
             <p
               class="MuiTypography-root-id MuiTypography-body1-id Component-tableCellFont-id"
             >
-              KGS 80.00
+              KGS80.00
             </p>
           </td>
         </tr>
@@ -36716,7 +37093,7 @@ exports[`Storyshots Views / Vouchers / Voucher list default 1`] = `
             <p
               class="MuiTypography-root-id MuiTypography-body1-id Component-tableCellFont-id"
             >
-              DJF 30
+              DJF30
             </p>
           </td>
         </tr>
@@ -36773,7 +37150,7 @@ exports[`Storyshots Views / Vouchers / Voucher list default 1`] = `
             <p
               class="MuiTypography-root-id MuiTypography-body1-id Component-tableCellFont-id"
             >
-              GNF 70
+              GNF70
             </p>
           </td>
         </tr>
@@ -36883,7 +37260,7 @@ exports[`Storyshots Views / Vouchers / Voucher list default 1`] = `
             <p
               class="MuiTypography-root-id MuiTypography-body1-id Component-tableCellFont-id"
             >
-              RWF 30
+              RWF30
             </p>
           </td>
         </tr>
