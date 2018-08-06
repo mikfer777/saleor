@@ -3,7 +3,7 @@ from graphene import relay
 from graphene_django.filter import DjangoFilterConnectionField
 
 from ...product import models
-from ...product.templatetags.product_images import product_first_image
+from ...product.templatetags.product_images import get_thumbnail
 from ...product.utils import products_with_details
 from ...product.utils.availability import get_availability
 from ...product.utils.costs import (
@@ -155,7 +155,7 @@ class Product(CountableDjangoObjectType):
     def resolve_thumbnail_url(self, info, *, size=None):
         if not size:
             size = '255x255'
-        return product_first_image(self, size)
+        return get_thumbnail(self.get_first_image(), size)
 
     def resolve_url(self, info):
         return self.get_absolute_url()
