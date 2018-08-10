@@ -32,7 +32,7 @@ SITE_ID = 1
 
 PROJECT_ROOT = os.path.normpath(os.path.join(os.path.dirname(__file__), '..'))
 
-ROOT_URLCONF = 'saleor.urls'
+ROOT_URLCONF = 'saleor.urls'ALLOWED_HOSTS
 
 WSGI_APPLICATION = 'saleor.wsgi.application'
 
