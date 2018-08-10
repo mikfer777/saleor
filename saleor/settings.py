@@ -32,7 +32,7 @@ SITE_ID = 1
 
 PROJECT_ROOT = os.path.normpath(os.path.join(os.path.dirname(__file__), '..'))
 
-ROOT_URLCONF = 'saleor.urls'
+ROOT_URLCONF = 'saleor.urls'ALLOWED_HOSTS
 
 WSGI_APPLICATION = 'saleor.wsgi.application'
 
@@ -55,8 +55,8 @@ DATABASES = {
         conn_max_age=600)}
 
 
-TIME_ZONE = 'America/Chicago'
-LANGUAGE_CODE = 'en'
+TIME_ZONE = 'Europe/Paris'
+LANGUAGE_CODE = 'fr'
 LANGUAGES = [
     ('bg', _('Bulgarian')),
     ('cs', _('Czech')),
@@ -306,8 +306,8 @@ AUTH_USER_MODEL = 'account.User'
 
 LOGIN_URL = '/account/login/'
 
-DEFAULT_COUNTRY = os.environ.get('DEFAULT_COUNTRY', 'US')
-DEFAULT_CURRENCY = os.environ.get('DEFAULT_CURRENCY', 'USD')
+DEFAULT_COUNTRY = os.environ.get('DEFAULT_COUNTRY', 'FR')
+DEFAULT_CURRENCY = os.environ.get('DEFAULT_CURRENCY', 'EUR')
 DEFAULT_DECIMAL_PLACES = get_currency_fraction(DEFAULT_CURRENCY)
 AVAILABLE_CURRENCIES = [DEFAULT_CURRENCY]
 COUNTRIES_OVERRIDE = {
@@ -370,7 +370,7 @@ bootstrap4 = {
 TEST_RUNNER = ''
 
 ALLOWED_HOSTS = get_list(
-    os.environ.get('ALLOWED_HOSTS', 'localhost,127.0.0.1'))
+    os.environ.get('ALLOWED_HOSTS', '*'))
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
