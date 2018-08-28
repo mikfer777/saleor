@@ -28,7 +28,7 @@ services:
     networks:
       - saleor-backend-tier
     volumes:
-      - saleor-db:/var/lib/postgresql
+      - saleor-db:/var/lib/postgresql/data
     ports:
       - 5432:5432
     environment:
